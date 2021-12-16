@@ -1,0 +1,81 @@
+{
+  "main": {
+    "name": "Aditya Sinha",
+    "image": "profilepic.png",
+    "bio": "I am currently pursuing MS in Business Analytics at BU to gain comprehensive knowledge about data science and machine learning. I am a deep creative thinker with problem-solving skills and analytical mindset who is passionate about using technology and data to solve real world problem and make the world a better place.",
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "Resume_AdityaSinha.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aditya-sinha",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/aditya248",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Boston University, Questrom School of Business",
+        "degree": "MS in Business Analytics",
+        "graduated": "June 2021 - May 2022",
+        "description": ""
+      },
+      {
+        "school": "North Dakota State University",
+        "degree": "Computer Science & Mathematics",
+        "graduated": "August 2014 - May 2018",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Dana-Farber Cancer Institute",
+        "title": "Data Science / Machine Leanrning Capstone",
+        "years": "December 2021 - Present",
+        "description": ""
+      },
+      {
+        "company": "Boston University Anti-Racist Research",
+        "title": "Software/Data Intern",
+        "years": "September 2021 - December 2021",
+        "description": ""
+      },
+      {
+        "company": "Border States Electric",
+        "title": "Senior Software Developer / Scrum Master",
+        "years": "October 2020 - June 2021",
+        "description": ""
+      },
+      {
+        "company": "Border States Electric",
+        "title": "Software Developer II",
+        "years": "November 2019 - October 2020",
+        "description": ""
+      },
+      {
+        "company": "Allegiance Group",
+        "title": "Software Developer",
+        "years": "July 2018 - November 2019",
+        "description": ""
+      },
+      {
+        "company": "North Dakota Department Of Transportation",
+        "title": "IT/Software Intern",
+        "years": "July 2018 - November 2019",
+        "description": ""
+      },
+      {
+        "company": "KNDS Radio Station",
+        "title": "Web Developer",
+        "years": "March 2015 - May 2018",
+        "description": ""
+      }   
+    ]
+  }
+}
